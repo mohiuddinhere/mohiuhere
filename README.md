@@ -1,6 +1,6 @@
 # Hi, I'm Mohiuddin 🐧
 
-<img src="https://github.com/mohiuhere/mohiuhere/blob/main/mohiuddintamim.png">
+<img src="https://github.com/mohiuhere/mohiuhere/blob/main/mohiuddin_tamim.png">
 
 
 ## Find me around the web 🌎: <br>
