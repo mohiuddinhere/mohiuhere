@@ -1,7 +1,7 @@
 # Hi, I'm Mohiuddin Tamim 🐧
 
 ## A few words about myself : <br>
-### As a web developer, I am proficient in a variety of web technologies, including Laravel, PHP, jQuery, ajax, bootstrap, MySQL,  and others.Additionally studying microservices and the MERN stack at the moment.
+### As a web developer, I am proficient in a variety of web technologies, including Laravel, PHP, jQuery, ajax, bootstrap, MySQL, etc. Additionally studying microservices and the MERN stack at the moment.
 
 ## Find me around the web : <br>
 #### <a href="https://github.com/mohiuhere">Git</a>
